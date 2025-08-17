@@ -1,0 +1,19 @@
+{
+  "name": "@06albert/api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/06Albert/monorepo-package.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "gitHead": "1a15b9d105eb149ad3522de760dc15385caff53b"
+}
